@@ -1,4 +1,4 @@
-# CSSanimation 
+# Juggler on CSS 
 
 Juggler on CSS animation
 
